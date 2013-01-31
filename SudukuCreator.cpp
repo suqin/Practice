@@ -76,7 +76,7 @@ void initRow(short row)
         repeat=0;//repeat set 0  
     }  
 }  
-int main()  
+int main()
 {  
     int count = 0;  
     memset(Sudoku,0,sizeof(short)*9*9);  
