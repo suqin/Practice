@@ -18,5 +18,3 @@ Practice
 		
 ## 四.sum.cpp： ##
 		随机生成N个数和为M
-## 五.problem1.py ##
-		给出一个数组a和一个数字sum，要求用a里的数字用加法凑成sum
